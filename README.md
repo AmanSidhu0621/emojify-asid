@@ -1,4 +1,4 @@
-# emojify-nlp
+# emojify-asid
 
 Creating text with emojis based on input text with the help of NLP.
 
@@ -26,8 +26,8 @@ Creating text with emojis based on input text with the help of NLP.
 
 ```bash
 # clone
-git clone https://github.com/AmanSidhu0621/emojify-nlp
-cd emojify-nlp
+git clone https://github.com/AmanSidhu0621/emojify-asid
+cd emojify-asid
 
 # create & activate a venv (recommended)
 python -m venv .venv
@@ -40,7 +40,7 @@ pip install -e .
 ### Option B: Use directly in another project
 
 ```bash
-pip install git+https://github.com/AmanSidhu0621/emojify-nlp.git
+pip install git+https://github.com/AmanSidhu0621/emojify-asid.git
 ```
 
 > Requires Python 3.8+ (bump this to whatever you support).

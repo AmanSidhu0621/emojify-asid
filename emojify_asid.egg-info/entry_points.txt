@@ -1,2 +1,0 @@
-[console_scripts]
-emojify = emojify.core:emojify_text

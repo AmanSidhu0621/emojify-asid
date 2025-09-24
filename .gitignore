@@ -1,2 +1,4 @@
 emojify/__pycache__
 emojifyenv/
+emojify.egg-info/
+dist/

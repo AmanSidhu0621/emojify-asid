@@ -40,7 +40,7 @@ pip install -e .
 ### Option B: Use directly in another project
 
 ```bash
-pip install git+https://github.com/AmanSidhu0621/emojify-asid.git
+pip install emojify-asid==0.1.3
 ```
 
 > Requires Python 3.8+ (bump this to whatever you support).
@@ -49,7 +49,7 @@ pip install git+https://github.com/AmanSidhu0621/emojify-asid.git
 
 ## ⚡ Quickstart
 
-### Python API
+### Python Use
 
 ```python
 from emojify import emojify_text  # or Emojifier class if you expose one
@@ -59,16 +59,6 @@ print(emojify_text(text))
 # Can also customize the mapping
 # → "I just smashed my workout and feel amazing 💪🔥😄"
 ```
-
----
-
-## 📚 Examples
-
-* Social caption enhancer for a product launch
-* Slack/Discord bot that reacts with suggested emojis
-* Data augmentation: generate multiple emoji‑rich variants per sentence
-
-Provide runnable notebooks or scripts under `examples/` if you add them later.
 
 ---
 

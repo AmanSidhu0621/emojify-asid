@@ -57,6 +57,10 @@ text = "I just smashed my workout and feel amazing"
 print(emojify_text(text))
 # Can also customize the mapping
 # → "I just smashed my workout and feel amazing 💪🔥😄"
+
+text2 = "I love my coffee and my cat"
+print(emojify_text(text2))
+# "I ❤️ my ☕ and my 🐱"
 ```
 
 ---
